@@ -1,0 +1,30 @@
+# Core Dependencies
+tweepy
+python-dotenv
+google-generativeai
+
+# Machine Learning & NLP
+transformers
+scikit-learn
+torch
+numpy
+pandas
+
+# Text Processing  
+nltk
+regex
+
+# HTTP Requests
+requests
+
+# Data Processing
+pydantic
+
+# Logging
+coloredlogs
+
+# CLI Tools
+tqdm
+
+# JSON Processing
+jsonschema
